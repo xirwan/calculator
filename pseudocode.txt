@@ -1,0 +1,13 @@
+Input first number
+Input operation
+Input second number
+Input = to calculate
+Display result
+If input operation again
+    Do calculate two number before
+    Display result
+    Input third number
+    Input = to calculate
+    Do calculate result with third number
+    Display result
+Endif
